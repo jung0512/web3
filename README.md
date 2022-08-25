@@ -15,6 +15,6 @@ spl의 결과값을 받아들여 준다<br>
 whlie문 안에 next메소드를 넣어 마지막 값까지 반복하여<br>
 테이블을 만들어 준다<br>
 ![image](https://user-images.githubusercontent.com/102035198/186560961-b420ae00-5d2d-4eae-b5fd-19318952d43b.png)<br>
-rs에서 조회된 검색 결과를 문자열로 받아 들여서 getString이 문자열로 테이블에 불러온다<br>
+rs에서 조회된 검색 결과를 문자열로 받아 들여서 etString이 문자열로 테이블에 불러온다<br>
 ![image](https://user-images.githubusercontent.com/102035198/186560918-17512820-df8f-45ca-8080-8420b1b61af4.png)<br>
 수정과 삭제 버튼을 만들어준다<br>
