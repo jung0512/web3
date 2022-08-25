@@ -12,8 +12,8 @@ spl의 결과값을 받아들여 준다<br>
 ![image](https://user-images.githubusercontent.com/102035198/186562735-91fa32d4-fbd7-4b0a-a56f-014f5f53af99.png)<br>
 제목과 테이블 생성해줍니다<br>
 ![image](https://user-images.githubusercontent.com/102035198/186560862-fa36bb5e-c333-4b9e-809a-9d6d4d235b78.png)<br>
-whlie문 안에 next메소드를 넣어 마지막 값까지 반복한다<br>
-테이블을 한줄 만들어 준다
+whlie문 안에 next메소드를 넣어 마지막 값까지 반복하여<br>
+테이블을 만들어 준다<br>
 ![image](https://user-images.githubusercontent.com/102035198/186560961-b420ae00-5d2d-4eae-b5fd-19318952d43b.png)<br>
 rs에서 조회된 검색 결과를 문자열로 받아 들여서 getString이 문자열로 테이블에 불러온다<br>
 ![image](https://user-images.githubusercontent.com/102035198/186560918-17512820-df8f-45ca-8080-8420b1b61af4.png)<br>
